@@ -67,10 +67,4 @@ Feel free to reach out — let's build something great together! 🚀
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Akshaya's GitHub stats" />
-</p>
 
-<p align="center">
-  <i>"Every expert was once a beginner. Keep going! 💫"</i>
-</p>
