@@ -58,7 +58,7 @@ I'm an IT student who loves turning ideas into reality through code. I enjoy exp
 
 A carpooling web platform designed to connect riders and drivers for smarter, more sustainable commuting.
 
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/smartride)
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshhwow/SmartRide)
 
 **What it does:**
 - 🔍 Matches riders with nearby drivers going the same route
