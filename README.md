@@ -53,7 +53,19 @@ I'm an IT student who loves turning ideas into reality through code. I enjoy exp
 
 ## 📌 Projects
 
-> 🚧 Building things — projects coming soon! Stay tuned.
+### 🚗 SmartRide — Carpooling Website
+> Built as part of the **Infosys Springboard** program
+
+A carpooling web platform designed to connect riders and drivers for smarter, more sustainable commuting.
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/smartride)
+
+**What it does:**
+- 🔍 Matches riders with nearby drivers going the same route
+- 📅 Allows ride scheduling and booking
+- 🌍 Promotes eco-friendly, shared commuting
+
+**Built with:** *(update with the tech you used — e.g. Python, HTML/CSS, Flask, MySQL, etc.)*
 
 ---
 
@@ -66,5 +78,4 @@ Feel free to reach out — let's build something great together! 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshhwow)
 
 ---
-
 
