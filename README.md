@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hey there! I'm Akshaya 👋
 
-<!--
-**akshhwow/akshhwow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year | Information Technology  
+💡 Passionate about learning, building, and growing every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm an IT student who loves turning ideas into reality through code. I enjoy exploring new technologies, writing, and constantly leveling up my skills. Currently on the lookout for exciting **internship opportunities** where I can contribute and grow!
+
+- 🌱 Currently learning and building cool things
+- ✍️ I love writing — clear thinking leads to clean code
+- 🎯 Goal: Land a meaningful internship and work on real-world projects
+- 💬 Ask me about Python, Data Analytics, or anything tech!
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+📊 **Data Analytics** | 🤖 **Arduino Basics** | 📝 **Technical Writing**
+
+---
+
+## 🌱 Learning Journey
+
+```
+📍 Where I am now:
+   ✅ Python fundamentals
+   ✅ Java basics
+   ✅ Data Analytics concepts
+   ✅ Arduino & IoT basics
+   🔄 Working on projects to apply these skills...
+   🔮 Next up: deeper into data science & web dev
+```
+
+---
+
+## 💪 Strengths
+
+| 💡 Trait | What it means for my work |
+|----------|--------------------------|
+| ✍️ Strong Writing Skills | I document well and communicate clearly |
+| 🔥 Passionate & Dedicated | I go all in on what I build |
+| 🎯 Honest & Self-motivated | I take ownership and keep pushing forward |
+
+---
+
+## 📌 Projects
+
+> 🚧 Building things — projects coming soon! Stay tuned.
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to connecting with fellow learners, developers, and mentors.  
+Feel free to reach out — let's build something great together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaya-dathrika-1756aa310)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshhwow)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Akshaya's GitHub stats" />
+</p>
+
+<p align="center">
+  <i>"Every expert was once a beginner. Keep going! 💫"</i>
+</p>
