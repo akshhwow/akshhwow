@@ -1,6 +1,6 @@
 # Hey there! I'm Akshaya 👋
 
-🎓 B.Tech 3rd Year | Information Technology  
+🎓 B.Tech Final Year | Information Technology  
 💡 Passionate about learning, building, and growing every day
 
 ---
